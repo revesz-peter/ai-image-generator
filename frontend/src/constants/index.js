@@ -41,7 +41,7 @@ export const surpriseMePrompts = [
     "a futuristic 3D rendering of a cowboy on a hoverboard, racing through a twisting canyon with sheer cliffs on either side",
     "a realistic portrait photograph of an aged cowboy, with a rugged face and piercing blue eyes",
     "a black and white 35mm photograph of a lone cowboy on horseback, silhouetted against a vast, open sky",
-    "a close-up 35mm photograph of a cowboy's weathered hands, with the intricate details of the leather and stitching visible",
+    "a close-up 35mm photograph of a cowboy's weathered hands, rough and calloused from years of working the land, adorned with silver rings",
     "a portrait photograph of a Native American warrior, with striking features and traditional dress",
     "a 35mm photograph of a cowboy sitting outside a saloon, with a pistol in his lap and a look of steely determination on his face",
     "a photograph of a group of cowboys and their horses, taken at dusk with the warm, golden light of the setting sun",
