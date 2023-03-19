@@ -89,7 +89,7 @@ const CreatePost = () => {
                     DALL-E and share them with the community
                 </p>
             </div>
-            <form className="mt-16 max-w-3xl" onSubmit={handleSubmit}>
+            <form className="mt-5 max-w-3xl" onSubmit={handleSubmit}>
                 <div className="flex flex-col gap-5">
                     <FormField
                         labelName="Your name"
@@ -143,13 +143,13 @@ const CreatePost = () => {
                     </button>
                 </div>
 
-                <div className="mt-10">
-                    <p className="mt-2 text-[#666e75] text-[14px]">Once you have created an image, you can share it with others in the community</p>
+                <div className="mt-2">
+                    {/* <p className="mt-2 text-[#666e75] text-[14px]">Once you have created an image, you can share it with others in the community</p> */}
                     <button
                     type="submit"
                     className="mt-3 text-white bg-[#6469ff] font-medium rounded-md text-sm w-full sm:w-auto px-5 py-2.5 text-center"
                     >
-                        {loading ? 'Sharing...' : 'Share'}
+                        {loading ? 'Sharing...' : 'Share with the community'}
                     </button>
                 </div>
             </form>
