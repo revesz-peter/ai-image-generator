@@ -1,5 +1,5 @@
 # ai-image-generator
-It is currently live under the domain: https://canvasofdalle.cloud
+It is currently live under the domain: https://canvasofdalle.cloud (You might need to refresh your browser to ping it and wait for a few seconds, the server goes to sleep after being inactive for a while)
 
 - Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
 - Tailwind: The most popular CSS framework nowadays
