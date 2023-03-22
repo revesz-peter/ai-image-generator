@@ -1,4 +1,6 @@
 # ai-image-generator
+It is currently live under the domain: https://canvasofdalle.cloud
+
 - Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
 - Tailwind: The most popular CSS framework nowadays
 - OpenAI's DALL-E model: A deep learning model that generates images from text input
