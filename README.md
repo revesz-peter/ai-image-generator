@@ -36,6 +36,6 @@ I want to thank the OpenAI and Tailwind CSS teams for their excellent work that 
 
 <img width="1439" alt="ai-image-generator04" src="https://user-images.githubusercontent.com/106816098/226864295-67dea66a-eb24-46af-a5da-ad10937b95ba.png">
 
-<img width="895" alt="ai-image-generator05" src="https://user-images.githubusercontent.com/106816098/226864313-c0c36bf4-e3b2-439b-8b7f-95696b4fac13.png">
-
 <img width="1439" alt="ai-image-generator06" src="https://user-images.githubusercontent.com/106816098/226864338-7bc7df8f-51ec-4cdd-a204-765c51070b42.png">
+
+<img width="895" alt="ai-image-generator05" src="https://user-images.githubusercontent.com/106816098/226864313-c0c36bf4-e3b2-439b-8b7f-95696b4fac13.png">
