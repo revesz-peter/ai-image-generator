@@ -1,10 +1,34 @@
-# ai-image-generator
-It is currently live under the domain: https://canvasofdalle.cloud (You might need to refresh your browser to ping it and wait for a few seconds, the server goes to sleep after being inactive for a while)
+# AI Image Generator
 
-- Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
-- Tailwind: The most popular CSS framework nowadays
-- OpenAI's DALL-E model: A deep learning model that generates images from text input
-- Cloudinary: A cloud-based image storage service!
+AI Image Generator is a web application that uses OpenAI's DALL-E model to generate images based on user input. The application is built with the MERN stack, Tailwind CSS for the frontend, and uses Cloudinary for cloud-based image storage.
+
+## 🌐 Live Demo
+
+You can access the live demo of the application at [https://canvasofdalle.cloud](https://canvasofdalle.cloud). (Please note, you might need to refresh your browser to ping the server and wait for a few seconds, as the server goes to sleep after being inactive for a while).
+
+## 🛠️ Built With
+
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [React.js](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [OpenAI's DALL-E model](https://openai.com/research/dall-e/)
+- [Cloudinary](https://cloudinary.com/)
+
+## 🧑‍💻 How it works
+
+1. The user enters a description of the image they want to generate.
+2. The application uses OpenAI's DALL-E model to generate an image based on the user's input.
+3. The generated image is stored in Cloudinary and displayed to the user.
+
+## 📫 Contact
+
+For more information about this project, please feel free to contact me.
+
+## 💡 Acknowledgments
+
+I want to thank the OpenAI and Tailwind CSS teams for their excellent work that helped me develop this application.
 
 <img width="1439" alt="ai-image-generator02" src="https://user-images.githubusercontent.com/106816098/226864224-61e651ad-d454-4cdd-99ae-642aaf29eb35.png">
 
