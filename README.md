@@ -2,10 +2,6 @@
 
 AI Image Generator is a web application that uses OpenAI's DALL-E model to generate images based on user input. The application is built with the MERN stack, Tailwind CSS for the frontend, and uses Cloudinary for cloud-based image storage.
 
-## 🌐 Live Demo
-
-You can access the live demo of the application at [https://canvasofdalle.cloud](https://canvasofdalle.cloud). (Please note, you might need to refresh your browser to ping the server and wait for a few seconds, as the server goes to sleep after being inactive for a while).
-
 ## 🛠️ Built With
 
 - [Node.js](https://nodejs.org/en/)
